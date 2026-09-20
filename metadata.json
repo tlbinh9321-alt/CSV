@@ -1,6 +1,0 @@
-{
-  "name": "Bốc Bài Vibe CSV",
-  "description": "Mini-game gacha summon và bốc bài futuristic vibe độc quyền sự kiện CSV — Khám phá bạn thuộc hệ nào!",
-  "requestFramePermissions": ["camera"],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
